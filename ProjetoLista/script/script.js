@@ -6,7 +6,7 @@ function removerItem(button) {
 
 function limparLista() {
     document.getElementById("lista-produtos").innerHTML = ""
-    document.getElementById("lista-produtos").innerText = "...Lista vazia"
+    document.getElementById("lista-produtos").innerText = "...LISTA VAZIA"
 }
 
 
